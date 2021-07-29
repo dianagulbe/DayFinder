@@ -8,6 +8,12 @@
 import UIKit
 class ViewController: UIViewController {
     
+    @IBOutlet weak var findButton: UIButton!
+    @IBOutlet weak var findButton: UIButton!
+    @IBOutlet weak var findButton: UIButton!
+    @IBOutlet weak var findButton: UIButton!
+    @IBOutlet weak var findButton: UIButton!
+    @IBOutlet weak var resultLabel: UILabel!
     @IBOutlet weak var dayTextField: UITextField!
     @IBOutlet weak var monthTextField: UITextField!
     @IBOutlet weak var yearTextField: UITextField!
