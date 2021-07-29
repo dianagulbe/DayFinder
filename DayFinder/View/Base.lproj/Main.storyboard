@@ -150,10 +150,10 @@
             </objects>
             <point key="canvasLocation" x="131.8840579710145" y="72.991071428571431"/>
         </scene>
-        <!--View Controller-->
+        <!--Info View Controller-->
         <scene sceneID="UW9-Nb-Uuy">
             <objects>
-                <viewController id="eUa-XI-cLa" sceneMemberID="viewController">
+                <viewController id="eUa-XI-cLa" customClass="InfoViewController" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="x1D-Ud-WgU">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
